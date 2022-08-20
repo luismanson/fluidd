@@ -16,7 +16,7 @@ app:
       not_found: No se ha encontrado ninguna malla de la cama.
       not_loaded: No está cargada ninguna malla.
     tooltip:
-      calibrate: 'Inicia una nueva calibración, que será guardada con el nombre ''default'''
+      calibrate: 'Comienza una nueva calibración, se guardará con el nombre ''default'''
       delete: Elimina el perfil. Esto REINICIARÁ su impresora
       load: Cargar el perfil
       save: >-
